@@ -116,3 +116,8 @@ vagrant ssh
 - Kết quả chúng ta thu được như sau :
 
 ![scr2](http://i.imgur.com/EGktbNW.png)
+#Nguồn:
+- https://viblo.asia/dinhhoanglong91/posts/1l0rvmDQGyqA
+- https://atlas.hashicorp.com/boxes/search
+- https://www.vagrantup.com/docs/networking/index.html
+- https://dzone.com/articles/introduction-vagrant
